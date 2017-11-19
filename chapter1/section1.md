@@ -3,6 +3,8 @@
 
 ## Why do we need Git and GitHub?
 
+![Not the final doc!!!](assets/images/notfinal.gif)
+
 
 ## An overview of Git
 
